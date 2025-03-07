@@ -1,6 +1,6 @@
 {
     "id": 1,
-    "image": "https://immutable.github.io/sample-project-metadata/tokens/token1.webp",
+    "image": "https://tont-2967.github.io/sample-project-metadata/tokens/token1.webp",
     "token_id": "1",
     "background_color": null,
     "animation_url": null,
@@ -10,16 +10,22 @@
     "external_url": null,
     "attributes": [
       {
-        "trait_type": "Hat",
-        "value": "Top Hat"
+        "name": "ハイマン #01",
+        "level": 1,
+        "attribute": "Red",
+        "rarity": "Uncommon"
       },
       {
-        "trait_type": "Coat",
-        "value": "Tails"
+        "name": "ハイマン #02",
+        "level": 2,
+        "attribute": "Green",
+        "rarity": "Common"
       },
       {
-        "trait_type": "Neck",
-        "value": "Bow Tie"
+        "name": "ハイマン #03",
+        "level": 3,
+        "attribute": "Black",
+        "rarity": "Epic"
       }
     ]
   }
